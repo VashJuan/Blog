@@ -113,6 +113,7 @@ Possible EOC online home page.
 - http://jekyllthemes.org/
 - https://astro.build/integrations/5/
 - original code mostly from: https://tailwindui.com/components/marketing/page-examples/landing-pages
+- https://strapi.io/blog/how-to-build-a-blog-with-astro-strapi-and-tailwind-css
 
 npm install -g npm@latest
 nvm install node
