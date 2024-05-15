@@ -1,4 +1,5 @@
 export default function CTA() {
+  // CTA = Call To Action?
   return (
     <div className="bg-white">
       <div className="mx-auto max-w-7xl py-16 sm:px-6 sm:py-24 lg:px-8">

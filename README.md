@@ -114,6 +114,8 @@ Possible EOC online home page.
 - https://astro.build/integrations/5/
 - original code mostly from: https://tailwindui.com/components/marketing/page-examples/landing-pages
 - https://strapi.io/blog/how-to-build-a-blog-with-astro-strapi-and-tailwind-css
+- https://docs.astro.build/en/guides/markdown-content/#mdx-features
+- https://dev.to/paulasantamaria/introduction-to-yaml-125f (frontmatter at top of blog posts...)
 
 npm install -g npm@latest
 nvm install node

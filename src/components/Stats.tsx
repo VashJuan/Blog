@@ -1,7 +1,13 @@
 const stats = [
-  { id: 1, name: 'Transactions every 24 hours', value: '44 million' },
-  { id: 2, name: 'Assets under holding', value: '$119 trillion' },
-  { id: 3, name: 'New users annually', value: '46,000' },
+  { id: 1, name: 'US Public Safety Answering Points', value: '5,293' },
+  // https://www.911.gov/assets/2021-911-Profile-Database-Report_FINAL.pdf
+  { id: 2, name: 'US EOCs', value: '>6,000' },
+  //https://chatgpt.com/c/54be4896-ab4c-45ec-8c9f-afa75cf26734
+  {
+    id: 3,
+    name: 'Annual hours training for a mid-sized EOC',
+    value: '500-1000',
+  },
 ];
 
 export default function Stats() {

@@ -161,12 +161,7 @@ export default function Header() {
           >
             insights
           </a>
-          <a
-            href="/#stayintouch"
-            className="text-sm font-semibold leading-6 text-gray-900"
-          >
-            Subscribe
-          </a>
+
           <a
             href="/resources"
             className="text-sm font-semibold leading-6 text-gray-900"
@@ -174,7 +169,7 @@ export default function Header() {
             Resources
           </a>
           <a
-            href="/AboutUs"
+            href="/about"
             className="text-sm font-semibold leading-6 text-gray-900"
           >
             About
