@@ -1,7 +1,7 @@
 # Astro landing-page
 
 ```
-yarn create astro --template eocOnline/astro-landing-page
+yarn create astro --template eoc.online/astro-landing-page
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
