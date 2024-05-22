@@ -20,7 +20,7 @@ const cards: Card[] = [
   {
     header: 'RangerTrak',
 
-    image: './assets/imgs/site/rangertrak.png',
+    image: './assets/images/site/rangertrak.png',
     imageAlt: 'RangerTrak Logo',
     body: 'RangerTrak is an open-source tool to map and track ranging search and rescue personnel providing updates via radio or other voice technology.',
     buttons: [
@@ -41,7 +41,7 @@ const cards: Card[] = [
   },
   {
     header: 'OpenFemaNgClient',
-    image: './assets/imgs/site/OpenFemaNgClient.png',
+    image: './assets/images/site/OpenFemaNgClient.png',
     imageAlt: 'OpenFemaNgClient Logo',
     body: 'A TypeScript & Angular Client for the openFEMA datasets/APIs',
     buttons: [
@@ -62,7 +62,7 @@ const cards: Card[] = [
   },
   {
     header: 'EOC Skillset Crosswalk',
-    image: './assets/imgs/site/Skillset.png',
+    image: './assets/images/site/Skillset.png',
     imageAlt: 'EOC Skillset screenshot',
     body: 'FEMA’s list of Skillsets (& associated Skills/Tasks) help Emergency Operation Centers (EOCs) qualify personnel. Common Skillsets suggest training & provide a standardized vocabulary to specify personnel skills between EOCs. ',
     buttons: [
